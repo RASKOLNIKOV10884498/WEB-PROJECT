@@ -1,4 +1,4 @@
-# WEB-PROJECT
+# ADIDAS SALES WEB APP-PROJECT
 That's a great idea\! A detailed and visually appealing `README.md` is essential for any GitHub project.
 
 Since GitHub READMEs use Markdown and not direct CSS, we'll use **emojis**, **code highlighting**, and **Markdown badges** to add "color" and visual structure.
